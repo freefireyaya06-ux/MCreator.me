@@ -1,1 +1,1 @@
-# MCreator.me
+# MCreator
