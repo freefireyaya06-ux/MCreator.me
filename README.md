@@ -37,6 +37,9 @@ A **Dev Container** (Development Container) is a standardized development enviro
 
 With MCreator, you can create custom blocks, items, mobs, dimensions, biomes, and much more without touching a single line of code.
 
+Official Website: https://mcreator.net/
+GitHub: https://github.com/MCreator/MCreator/
+
 ## Version Information
 
 This repository uses **MCreator 2022.1**, a stable and feature-rich version that provides excellent balance between functionality and performance. It is **completely free to use**, and the repository is **fully open source**, allowing you to:
